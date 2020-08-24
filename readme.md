@@ -15,7 +15,7 @@
 - $ npm install live-server postcss-cli node-sass
 
 ### Folders and files
-Create folders and files : 
+Create folders and files with this command line: 
 ```
 mkdir public && mkdir src && mkdir public/styles && touch public/styles/styles.css && mkdir src/styles && touch src/styles/styles.scss && touch public/index.html
 ```
