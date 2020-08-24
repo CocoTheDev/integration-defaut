@@ -54,7 +54,6 @@ Don't forget the stylesheet head call
 ## .gitignore
 If you go with git flow, don't forget to add these lines:
 ```
-/node_modules
-/.sass-cache
+node_modules
 ```
 
