@@ -39,14 +39,17 @@ Make sur to add the scss script in package.json
 },
 ```
 
-## Run Live server
-``` live-server public ```
-
 ## index.html
 Don't forget the stylesheet head call
 ```
 <link  rel="stylesheet"  href="styles/styles.css">
 ```
+
+## Run Live server
+``` live-server public ```
+
+## Run SCSS script
+``` npm run scss ```
 
 ## .gitignore
 If you go with git flow, don't forget to add these lines:
