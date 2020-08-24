@@ -17,6 +17,10 @@
 ### Folders and files
 Create folders and files : 
 ```
+mkdir public && mkdir src && mkdir public/styles && touch public/styles/styles.css && mkdir src/styles && touch src/styles/styles.scss && touch public/index.html
+```
+
+```
 - public
 	- styles 
 		- styles.css
