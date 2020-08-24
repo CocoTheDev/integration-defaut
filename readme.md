@@ -1,4 +1,4 @@
-# Making defaut folder for integration
+# Defaut folder app, quick landing page integration
 
 ## List of dependencies
 - npm
