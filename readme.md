@@ -24,8 +24,7 @@ Create folders and files :
 
 - src
 	- styles
-		- scss
-			- styles.scss  
+		- styles.scss
 	
 ```
 ### Package.json
