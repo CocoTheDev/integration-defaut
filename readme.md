@@ -4,8 +4,8 @@
 - npm
 - node.js
 - live serve
-- sass OR postscss
-- auto-prefixer
+- node-sass
+- postscss-cli
 
 ## Instructions
 ### Install
