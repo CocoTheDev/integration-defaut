@@ -15,7 +15,7 @@
 
 - ``` npm run scss```  
 
-- ``` live-server public```  
+- ``` live-server```  
 
 ## How to create this app (long way)
 
@@ -64,7 +64,7 @@ node_modules
 ```
 
 ## Run Live server
-``` live-server public ```
+``` live-server ```
 
 ## Run node-sass script
 ``` npm run scss ```
