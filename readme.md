@@ -17,6 +17,9 @@
 
 - ``` live-server```  
 
+**If you want to change git's remote url :** 
+``git remote set-url origin new.git.url/here``
+
 ## How to create this app (long way)
 
 ### Install
